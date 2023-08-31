@@ -20,7 +20,6 @@ public class ArrayExercise_03 {
 		System.out.println("SUM is = " + sum);
 		System.out.println("PRODUCT is = " + product);
 		System.out.println("AVERAGE is = " + avg);
-		
 	}
 
 }
