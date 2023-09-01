@@ -16,6 +16,7 @@ public class TwoD_ArrayExercise_01 {
 				sum+=numbers[j][i];
 		System.out.println("The SUM of Column "+(i+1)+ " is: "+ sum);
 		sum=0;
+		
 		}
 		
 	}
